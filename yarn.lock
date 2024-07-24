@@ -829,6 +829,11 @@ d3-delaunay@^6.0.4:
   dependencies:
     delaunator "5"
 
+dat-gui@^0.5.0:
+  version "0.5.0"
+  resolved "https://registry.yarnpkg.com/dat-gui/-/dat-gui-0.5.0.tgz#1212da836109747d0ac220bad7b07c17daa03583"
+  integrity sha512-k5iJeovXcluGh+T0hyC4C6plENCr901M0iW7p4tZe31iNhWu6HjnOjcKo7lLftpWHI8qXj+E8nVBQzin9HqZDA==
+
 debug@^4.1.0, debug@^4.1.1, debug@^4.3.2, debug@^4.3.4:
   version "4.3.4"
   resolved "https://registry.yarnpkg.com/debug/-/debug-4.3.4.tgz#1319f6579357f2338d3337d2cdd4914bb5dcc865"

@@ -11,4 +11,3 @@ With an error function, a minimization algorithm (nelder mead currently, but tha
 ## Why
 
 Because I thought it could be cool (it isn't though).
-

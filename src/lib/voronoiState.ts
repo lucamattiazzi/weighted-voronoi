@@ -5,7 +5,7 @@ import { MinimizerPayload, MinimizerResults, Point } from "../types"
 import MinimizerUrl from "../workers/minimizer?worker&url"
 
 const EPSILON = 0.0001
-const MIN_SPEED = 2
+const MIN_SPEED = 1
 const FIRST_ANGLE_WEIGHT = 5
 const MAX_ANGLE_VALUE = Math.PI / 8
 
